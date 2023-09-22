@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Melungeons Project"
-copyright = "2023, Melungeons Documentation team"
-author = "Melungeons Documentation team"
+project = "AUS Project"
+copyright = "2023, AUS Documentation team"
+author = "AUS Documentation team"
 
 
 # -- General configuration ---------------------------------------------------
