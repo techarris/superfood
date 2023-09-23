@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "AUS Project"
-copyright = "2023, AUS Documentation team"
-author = "AUS Documentation team"
+project = "SF Project"
+copyright = "2023, SF Documentation team"
+author = "SF Documentation team"
 
 
 # -- General configuration ---------------------------------------------------
